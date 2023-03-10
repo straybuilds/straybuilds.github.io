@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download paper here](http://academicpages.github.io/files/CV.pdf)<br/>
+[Download CV here](http://academicpages.github.io/files/CV.pdf)<br/>
 Upload : 03.10.2023
 
 Education
