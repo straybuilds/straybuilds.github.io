@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Electrical Engineering and Computer Science, Minored in Mathematics, Minored in AI Convergence, GIST College, 2020 - 2024(exoected)
+* Bachelor of Electrical Engineering and Computer Science, Minored in Mathematics, Minored in AI Convergence, GIST College, 2020 - 2024(expected)
 * Sejong Academy of Science and Arts, 2017 - 2020
 
 Work Experience
